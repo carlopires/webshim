@@ -6,6 +6,8 @@ tests/performance.html
 dev-playground/*
 node_modules/*
 demos/demo-js/node_modules/*
+demos/js-webshim
+src/shims/combos
 
 /tests/form-implementation.html
 /build/yuicompressor.jar
